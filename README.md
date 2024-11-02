@@ -1,17 +1,3 @@
-[Project Overview](project-overview)
-
-[Data Collected](data-collected)
-
-[Project Objectives](project-objectives)
-
-[Observation](observation)
-
-[Recommendation](recommendation)
-
-[Project visualization](project-visualization)
-
-
-
 ## Project Overview
 ---
 This project acquires and analyses attrition rates across different department in the organisation, the goal is to show in details the number of current employees after attrition and to give insights to why the employees are leaving the organisation
